@@ -1,0 +1,1 @@
+worker: node antihack.js
